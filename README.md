@@ -6,8 +6,10 @@
 Запуск возможен файлами подряд, либо отдельно каждый, в случае, если у вас есть данные
 
 # Перед запуском
+```text
 Скопировать файл fz.csv в папку datasets
-Файл датасета доступен по ссылке https://drive.google.com/file/d/1ug_s8iS5mQtZsHCnbtTtDNRyv38WBn5s/view?usp=sharing 
+Файл датасета доступен по ссылке https://drive.google.com/file/d/1ug_s8iS5mQtZsHCnbtTtDNRyv38WBn5s/view?usp=sharing
+```
 Ввести команды, находясь в проекте:
 
 ```text
