@@ -8,6 +8,7 @@
 # Перед запуском
 
 Скопировать файл fz.csv в папку datasets
+
 Файл датасета доступен по ссылке
 ```text
 https://drive.google.com/file/d/1ug_s8iS5mQtZsHCnbtTtDNRyv38WBn5s/view?usp=sharing
